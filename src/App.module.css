@@ -1,0 +1,33 @@
+.container{
+    height: 100svh;
+    width: 100svw;
+    display: table;
+}
+
+.left{
+    background: linear-gradient(var(--stadard-color01), var(--stadard-color03));
+    display: table-cell;
+    width: 220px;
+    border-right: 2px solid var(--stadard-color03);
+}
+.right{
+    display: table-cell;
+    width: calc( 100% - 220px );
+    padding: 0.5rem 1rem;
+}
+
+.link{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0;
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: var(--stadard-color02);
+}
+
+.link.active{
+    color: var(--stadard-color06);
+    background: linear-gradient(0.1turn,rgba(var(--secondary-rgb-color01),0.7), rgba(var(--secondary-rgb-color02),0.9));
+    font-weight: bold;
+}

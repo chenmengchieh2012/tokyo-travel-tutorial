@@ -5,6 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --stadard-color01:#F8F8F8;
+  --stadard-rgb-color01: 248,248,248;
+  --stadard-color02: #998673;
+  --stadard-rgb-color01: 153,134,115;
+  --stadard-color03: #66594C;
+  --stadard-rgb-color01: 102,89,76;
+  --stadard-color04:#403830;
+  --stadard-rgb-color01: 64,56,48;
+  --stadard-color05: #403730;
+  --stadard-rgb-color01: 64,55,48;
+  --stadard-color06: #111111;
+  --stadard-rgb-color01: 17,17,17;
+  --secondary-color01: #36B389;
+  --secondary-rgb-color01: 54,179,137;
+  --secondary-color02: #268062;
+  --secondary-rgb-color02: 38,128,98;
+  --notify-color01: #FF884C;
+  --notify-rgb-color01: 255,136,76;
+  --skiddo: ""
 }
 
 code {
