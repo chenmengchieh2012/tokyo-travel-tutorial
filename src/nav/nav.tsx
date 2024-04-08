@@ -4,8 +4,9 @@ const CNav = ()=>{
     return <>
     <div className={`${styles["container"]}`}>
         <div className={`${styles["left"]}`}>
-            <CCustomLink to="/">Home</CCustomLink>
-            <CCustomLink to="/usage">Usage</CCustomLink>
+            <CCustomLink to="/">首頁</CCustomLink>
+            <CCustomLink to="/usage">使用說明</CCustomLink>
+            <CCustomLink to="/develop">開發使用</CCustomLink>
         </div>
         <div className={`${styles["right"]}`}>
             <Outlet />

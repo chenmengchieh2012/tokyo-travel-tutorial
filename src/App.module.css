@@ -1,19 +1,21 @@
 .container{
     height: 100svh;
     width: 100svw;
-    display: table;
+    display: flex;
+    white-space: nowrap;
 }
 
 .left{
     background: linear-gradient(var(--stadard-color01), var(--stadard-color03));
-    display: table-cell;
-    width: 220px;
+    flex-basis: 220px;
+    height: 100%;
     border-right: 2px solid var(--stadard-color03);
 }
 .right{
-    display: table-cell;
+    overflow-y: auto;
+    display: inline-block;
     width: calc( 100% - 220px );
-    padding: 0.5rem 1rem;
+    margin: 0.5rem 1rem;
 }
 
 .link{
