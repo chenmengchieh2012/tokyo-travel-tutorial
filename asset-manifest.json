@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/tokyo-travel-tutorial/static/css/main.f855e6bc.css",
-    "main.js": "/tokyo-travel-tutorial/static/js/main.fb97f667.js",
+    "main.css": "/tokyo-travel-tutorial/static/css/main.fbbddb4a.css",
+    "main.js": "/tokyo-travel-tutorial/static/js/main.02fa3e2f.js",
     "static/js/453.a4792c16.chunk.js": "/tokyo-travel-tutorial/static/js/453.a4792c16.chunk.js",
-    "static/media/logo.svg": "/tokyo-travel-tutorial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/usage-mainpage.png": "/tokyo-travel-tutorial/static/media/usage-mainpage.cac7504a79e58667eb8c.png",
+    "static/media/usage-search.png": "/tokyo-travel-tutorial/static/media/usage-search.e406dc149ba134522f4f.png",
+    "static/media/usage-journey.png": "/tokyo-travel-tutorial/static/media/usage-journey.f18ad4674cff3503a11c.png",
+    "static/media/usage-journey-item.png": "/tokyo-travel-tutorial/static/media/usage-journey-item.6b9bd053e9d72c533eb5.png",
     "index.html": "/tokyo-travel-tutorial/index.html",
-    "main.f855e6bc.css.map": "/tokyo-travel-tutorial/static/css/main.f855e6bc.css.map",
-    "main.fb97f667.js.map": "/tokyo-travel-tutorial/static/js/main.fb97f667.js.map",
+    "main.fbbddb4a.css.map": "/tokyo-travel-tutorial/static/css/main.fbbddb4a.css.map",
+    "main.02fa3e2f.js.map": "/tokyo-travel-tutorial/static/js/main.02fa3e2f.js.map",
     "453.a4792c16.chunk.js.map": "/tokyo-travel-tutorial/static/js/453.a4792c16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fb97f667.js"
+    "static/css/main.fbbddb4a.css",
+    "static/js/main.02fa3e2f.js"
   ]
 }
