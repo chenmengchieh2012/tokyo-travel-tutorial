@@ -15,7 +15,10 @@
     overflow-y: auto;
     display: inline-block;
     width: calc( 100% - 220px );
-    margin: 0.5rem 1rem;
+    padding: 0.5rem 1rem;
+}
+.right.hidden{
+    width: 100%;
 }
 
 .link{
@@ -32,4 +35,17 @@
     color: var(--stadard-color06);
     background: linear-gradient(0.1turn,rgba(var(--secondary-rgb-color01),0.7), rgba(var(--secondary-rgb-color02),0.9));
     font-weight: bold;
+}
+
+.menuicon{
+    text-align: right;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.absolute-menuicon{
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    background-color: transparent;
 }
