@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/css/main.fbbddb4a.css",
-    "main.js": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/main.7e1954ac.js",
+    "main.css": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/css/main.24fc1331.css",
+    "main.js": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/main.d616ca15.js",
     "static/js/453.a4792c16.chunk.js": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/453.a4792c16.chunk.js",
     "static/media/usage-mainpage.png": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/media/usage-mainpage.cac7504a79e58667eb8c.png",
     "static/media/usage-search.png": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/media/usage-search.e406dc149ba134522f4f.png",
     "static/media/usage-journey.png": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/media/usage-journey.f18ad4674cff3503a11c.png",
     "static/media/usage-journey-item.png": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/media/usage-journey-item.6b9bd053e9d72c533eb5.png",
     "index.html": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/index.html",
-    "main.fbbddb4a.css.map": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/css/main.fbbddb4a.css.map",
-    "main.7e1954ac.js.map": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/main.7e1954ac.js.map",
+    "main.24fc1331.css.map": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/css/main.24fc1331.css.map",
+    "main.d616ca15.js.map": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/main.d616ca15.js.map",
     "453.a4792c16.chunk.js.map": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/static/js/453.a4792c16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbbddb4a.css",
-    "static/js/main.7e1954ac.js"
+    "static/css/main.24fc1331.css",
+    "static/js/main.d616ca15.js"
   ]
 }
