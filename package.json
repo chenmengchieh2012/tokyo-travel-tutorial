@@ -1,7 +1,7 @@
 {
   "name": "tokyo-travel-tutorial",
   "version": "0.1.0",
-  "homepage": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial",
+  "homepage": "https://chenmengchieh2012.github.io/tokyo-travel-tutorial/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
